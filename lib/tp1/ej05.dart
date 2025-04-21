@@ -19,8 +19,8 @@ String mayusculasYMinusculas(String palabra) {
 
 
 //Codigo del main para ejecutar el ejercicio
-import 'package:tp1/tp1/ej05.dart';
+//import 'package:tp1/tp1/ej05.dart';
 
-void main() {
-  print(mayusculasYMinusculas('neuquen')); // debería imprimir: true
-}
+//void main() {
+  //print(mayusculasYMinusculas('neuquen'))
+//}

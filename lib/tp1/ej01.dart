@@ -6,8 +6,8 @@ int mayor (int a, int b){
   }
 }
 //Codigo del main para ejecutar el ejercicio
-import 'package:tp1/tp1/ej01.dart';
+//import 'package:tp1/tp1/ej01.dart';
 
-void main() {
-  print(mayor(1, 2));
-}
+//void main() {
+  //print(mayor(1, 2));
+//}

@@ -68,8 +68,8 @@ String numeroAtexto(int numero)
 
 //Codigo del main para ejecutar el ejercicio
 
-import 'package:tp1/tp1/ej07.dart';
+//import 'package:tp1/tp1/ej07.dart';
 
-void main() {
-  print(numeroAtexto(46));
-}
+//void main() {
+  //print(numeroAtexto(46));
+//}

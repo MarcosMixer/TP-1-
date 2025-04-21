@@ -16,11 +16,11 @@ String pluralDe2(String palabra2) {
 
 
 //Codigo del main para ejecutar el ejercicio
-import 'package:tp1/tp1/ej03.dart';
+//import 'package:tp1/tp1/ej03.dart';
 
-void main() {
-  print (pluralDe('pez'));
-  print (pluralDe2('gato'));
-}
+//void main() {
+  //print (pluralDe('pez'));
+  //print (pluralDe2('gato'));
+//}
 
   

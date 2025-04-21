@@ -16,13 +16,13 @@ List<String> tresAlAzar(List<String> palabras){
 
 //Codigo del main para ejecutar el ejercicio
 
-import 'package:tp1/tp1/ej08.dart';
+//import 'package:tp1/tp1/ej08.dart';
 
-void main() {
-  List<String> palabras = ['sol', 'luna', 'estrella', 'mar', 'cielo', 'nube'];
-  List<String> resultado = tresAlAzar(palabras);
-  print(resultado);
-}
+//void main() {
+  //List<String> palabras = ['sol', 'luna', 'estrella', 'mar', 'cielo', 'nube'];
+  //List<String> resultado = tresAlAzar(palabras);
+  //print(resultado);
+//}
 
 
 

@@ -11,10 +11,10 @@ List<int> paresHasta(int limite) {
 
 //codigo para el main
 
-import 'package:tp1/tp1/ej11.dart';
+//import 'package:tp1/tp1/ej11.dart';
 
-void main() {
-  print(paresHasta(7));  
-  print(paresHasta(10)); 
-  print(paresHasta(50));  
-}
+//void main() {
+  //print(paresHasta(7));  
+  //print(paresHasta(10)); 
+  //print(paresHasta(50));  
+//}
