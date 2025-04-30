@@ -33,12 +33,12 @@ bool esAnagrama(String palabra1, String palabra2) {
 
 //codigo para usar en el main
 
-import 'package:tp1/tp1/ej10.dart';
+// import 'package:tp1/tp1/ej10.dart';
 
-void main() {
-  print(esAnagrama('roma', 'amor'));       
-  print(esAnagrama('perro', 'porre'));     
-  print(esAnagrama('hola', 'halo'));       
-  print(esAnagrama('hola', 'ola'));       
-  print(esAnagrama('luz', 'zul'));         
-}
+// void main() {
+//   print(esAnagrama('roma', 'amor'));       
+//   print(esAnagrama('perro', 'porre'));     
+//   print(esAnagrama('hola', 'halo'));       
+//   print(esAnagrama('hola', 'ola'));       
+//   print(esAnagrama('luz', 'zul'));         
+// }
